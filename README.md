@@ -11,7 +11,7 @@ Patch de tradução para Português Brasileiro do jogo **WWE 2011** (PlayStation
 
 ## Requisitos
 
-* ISO original e limpa do jogo **WWE 2011** Americana (PS2). Sem outras modificações
+* ISO original e limpa do jogo **WWE 2011** Americana (SLUS_219.39) de PS2. Sem outras modificações
 * [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) — ferramenta gratuita para aplicar o patch
 
 ## Como instalar
